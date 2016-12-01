@@ -1,0 +1,5 @@
+NORMAL   NIGHT
+#f6f6f6  #343434 BackgroundColor
+#ff5454  #4fc1e9 BarColor
+#ffffff  #000000 TINT
+#ffffff  #000000 TEXT
